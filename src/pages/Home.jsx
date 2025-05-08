@@ -90,7 +90,7 @@ const Home = () => {
             </Link>
 
             <a
-              href="/Diptendu_Lodh_MERN_Developer_Resume.pdf"
+              href="https://diptendulodh-portfolio.netlify.app/Diptendu_Lodh_MERN_Developer_Resume.pdf"
               download
               className="bg-gray-600 hover:bg-gray-700 text-white px-6 py-3 rounded-lg text-md transition duration-300"
             >

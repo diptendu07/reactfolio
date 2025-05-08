@@ -1,11 +1,9 @@
-// /src/pages/Contact.jsx
-
 import { Mail, Github, Linkedin, Phone } from "lucide-react";
 import ContactItemCard from "../components/ContactItemCard";
 
 const Contact = () => {
   return (
-    <div className="bg-gray-800 text-white p-8 flex justify-center gap-6">
+    <div className="bg-gray-800 text-white p-8 flex flex-col sm:flex-row justify-center gap-6">
       {/* Email Card */}
       <ContactItemCard 
         Icon={Mail} 
