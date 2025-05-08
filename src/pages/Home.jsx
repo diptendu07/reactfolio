@@ -12,7 +12,7 @@ const Home = () => {
         {/* Left Side */}
         <div className="flex flex-col items-center lg:items-start text-center lg:text-left">
           <img
-            src="/public/pic.png"
+            src="https://diptendulodh-portfolio.netlify.app/pic.png"
             alt="Diptendu Lodh"
             className="w-48 h-48 rounded-full mb-6 object-cover"
           />

@@ -7,43 +7,43 @@ const Skills = () => {
     {
       title: "Web Development Certification",
       logo: <FaLaptopCode size={50} />,  // React icon for Web Development
-      certificateLink: "/public/web-development.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/web-development.pdf",
       externalLink: "https://www.edureka.co/my-certificate/f62095618269c51c80c1115f7a43926d",
     },
     {
       title: "jQuery UI Development Certification",
       logo: <FaLaptopCode size={50} />,  // React icon for jQuery UI
-      certificateLink: "/public/jquery-ui.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/jquery-ui.pdf",
       externalLink: "https://www.edureka.co/my-certificate/590d3155eb46294aad0c29d82d3d57d1",
     },
     {
       title: "Angular Certification",
       logo: <FaAngular size={50} />,  // Angular icon for Angular Certification
-      certificateLink: "/public/angular.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/angular.pdf",
       externalLink: "https://www.edureka.co/my-certificate/deb11e64adf1be62593dd308155f627d",
     },
     {
       title: "React.js Certification",
       logo: <FaReact size={50} />,  // React icon for React.js Certification
-      certificateLink: "/public/reactjs.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/reactjs.pdf",
       externalLink: "https://www.edureka.co/my-certificate/28367d3dc98e57bb1efe8bb3dacbd1b5",
     },
     {
       title: "Node.js Certification",
       logo: <FaNodeJs size={50} />,  // Node.js icon for Node.js Certification
-      certificateLink: "/public/nodejs.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/nodejs.pdf",
       externalLink: "https://www.edureka.co/my-certificate/a7da9c9018c7ef1a1364694c7ff59c6a",
     },
     {
       title: "MongoDB Certification",
       logo: <FaDatabase size={50} />,  // MongoDB icon for MongoDB Certification
-      certificateLink: "/public/mongodb.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/mongodb.pdf",
       externalLink: "https://www.edureka.co/lms/certificate/1dfa6d69273b647023f11bc6da76e922",
     },
     {
       title: "Full Stack Developer Certification",
       logo: <FaServer size={50} />,  // Server icon for Full Stack Developer Certification
-      certificateLink: "/public/full-stack.pdf",
+      certificateLink: "https://diptendulodh-portfolio.netlify.app/full-stack.pdf",
       externalLink: "https://www.edureka.co/my-certificate/33c54f8af0da64d6aa1bac1f1ad96973",
     },
   ];
